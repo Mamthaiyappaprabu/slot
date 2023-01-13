@@ -17,7 +17,7 @@ Add your timetable
 Execute the program
 
 # CODE
-'''
+```
  <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -122,8 +122,7 @@ Execute the program
 </table>
 </body>
 </html>
-'''
-
+```
 # OUPUT
 ![OUTPUT](./output.png)
 
